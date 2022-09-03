@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Edu Tech</title>
+  <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+  </head>
+<body>
+  <div class="wrapper">
+<!--NAVIGATION-->
+  <nav>
+   <img src="Edutech.jpg"  alt=" " style="width:500px;height:600px;">  
+  </nav>
+<!--END OF NAVIGATION-->
+  <div class="section">
+    <h1>DASHBOARD</h1>
+     <p></p>
+<form>
+         <button type="submit" formaction="https://askarchie.co.za/">My courses</button>
+      </form>
+<!--FEATURES-->
+
+<form>
+    <button type="submit" formaction="https://www.ipracticemath.com/grade">Mathematics</button>
+   </form>
+<form>
+         <button type="submit" formaction="https://lifeinthenerddom.com/free-science-curriculum-all-grades/">Science</button>
+  </form>
+<form>
+         <button type="submit" formaction="https://www.henryanker.com/Resources/Lesson_Plans/Lesson_Plans_K-5.html">Technology</button>
+         </form>
+<form>
+         <button type="submit" formaction=" ">Assignments</button>
+      </form>
+
+<style>
+        html {
+            height: 100%;
+            background-image: linear-gradient(to right, gray, black);
+            font-name: sans-serif
+           } 
+          body {
+             color: black;
+             font-size: 20px;
+             margin: 5px;
+             } 
+         h1 {
+           text-align: center;
+           Font-size: 40px;
+           color: orangered;
+           } 
+         h3 {
+           text-align: left;
+           font-size: 22px;
+           color: orangered;
+          } 
+         img {
+            width: 50%;
+            margin: 20px;
+            Border-radius: 6px;
+            }
+         nav {
+            font-color: orangered;
+            text-align: left;
+            margin: 10px;
+            font: calibri;
+            font-size: 16px;
+            font-style: Italic; 
+        } 
+           button {
+           border: none;
+           background: orangered;
+           border-radius: 10px;
+           padding: 5px;
+           color: white;
+           font-weight: bold;
+           font-size: 12px;
+           text-transform: uppercase;
+        } 
+     </style>
+<!--END OF FEATURES-->
+  </div>
+
+<!--END OF SECTION-->
+  </div>
+
+<!--END OF WRAPPER-->
+
+<!--SHOWCASE-->
+  <h1>COURSES REGISTRATION</h1>
+  <div class="Mathematics">
+    <h3>Mathematics</h3>
+    <img src="maths.jpg" alt="Mathematics">
+    <a href="#"><button class="apply">Apply Here</button></a>
+  </div>
+  <div class="Science">
+   <h3>Science</h3>
+   <img src="science.jpg" alt="Science">
+   <a href="#"><button class="apply">Apply Here</button></a>
+  </div>
+
+  <div class="Technology">
+    <h3>Technology</h3>
+    <img src="tech.jpg" alt="Technology">
+    <a href="#"><button class="apply">Apply Here</button></a>
+  </div>
+
+</div>
+</showcase>
+<!--END OF SHOWCASE-->
+    <footer>
+      <p>© Copyright 2022</p>
+   </footer>
+
+</body>
+</html>
+
